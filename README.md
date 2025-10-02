@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Kiryl 
--  I’m interested in Programming , Books , and some interesting stuff 
--  I’m currently learning JavaScript 
--  I’m looking to collaborate on JavaScript + React 
--  How to reach me antanevichkiryl524@gmail.com
+- 👋 Hi, I’m Kiryl
+-  My telegram/phone_number: kantopo / +48 888 407 629
+-  I’m interested in Programming , Books , and other stuff that can improve my self  
+-  I’m currently learning JavaScript , solving algoritmic tasks and reading interesting books about programming 
+-  I’m looking to collaborate on JavaScript + React , and already have a few projects in my portfolio on the GitHub
+-  Also i'm open to a some kind of internships and colabs that can help your firm or project
+-  2 years of collage in the major of the computer scince (still studing)
+-  English lvl : B2 
 
 <!---
 kantopo/kantopo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
