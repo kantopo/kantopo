@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kiryl
--  My telegram/phone_number: kantopo / +48 888 407 629
+-  My telegram: kantopo 
 -  I’m interested in Programming , Books , and other stuff that can improve my self  
 -  I’m currently learning JavaScript , solving algoritmic tasks and reading interesting books about programming 
 -  I’m looking to collaborate on JavaScript + React , and already have a few projects in my portfolio on the GitHub
